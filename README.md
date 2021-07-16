@@ -10,5 +10,5 @@ Repositorio con los postworks 1 a 8 y video presentación.
 - [Postwork 6](https://github.com/EdgarBL3/Avance-del-Postwork-Equipo-18/blob/main/Postwork%206.R)
 - [Postwork 7](https://github.com/EdgarBL3/Avance-del-Postwork-Equipo-18/blob/main/Postwork%207.R)
 - [Postwork 8](https://github.com/EdgarBL3/Avance-del-Postwork-Equipo-18/tree/main/Postwork%208)
-- [Video presentación](https://youtu.be/a0RxDoowgPI)
+- [Video presentación](https://www.youtube.com/watch?v=Ln5XAvdz8eM)
 - [Link de la presentacion](https://docs.google.com/presentation/d/124B-Zad24UsF2dX8NE3o1JYd_Uc4gKqHBxgL-Fg-puE/edit?usp=sharing)
